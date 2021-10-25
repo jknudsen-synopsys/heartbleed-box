@@ -3,7 +3,7 @@
 This is code from the following article, which describes the Heartbleed vulnerability
 in detail and shows how to create a demonstration.
 
-https://fixme
+https://www.synopsys.com/blogs/software-security/heartbleed-vulnerability-appsec-deep-dive/
 
 # How to Run
 
